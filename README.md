@@ -31,9 +31,8 @@ ImageCaptioning_Project/
 ├── .gitignore
 └── venv/ # Virtual environment (ignored in Git)
 
-yaml
-Copy code
-
+### Dataset
+Download the dataset from [Google Drive](https://drive.google.com/drive/folders/1HseuFs1NUrn3Ayz7XSA5ZKzdNgeFTz8f?usp=sharing)
 ---
 
 ## 🚀 Features
